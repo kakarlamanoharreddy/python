@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "c7501cc0",
+   "id": "c098ef5b",
    "metadata": {},
    "outputs": [
     {
@@ -20,6 +20,49 @@
     "c=30 if a>b else 40\n",
     "print(c)"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "435a1b08",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "int a,b=10,20\n",
+    "print('The sum of:',a+)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "60271263",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3dc4dae2",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "6d4ed989",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2ae4fc5e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
